@@ -1,0 +1,2 @@
+Hey I am being read by r+ mode.Hey I am written from the r+ mode
+Hey I am written from the r+ mode
